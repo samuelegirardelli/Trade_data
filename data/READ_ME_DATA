@@ -1,0 +1,9 @@
+# Here all data necessary to run the model
+# https://data.worldbank.org/indicator/NY.GDP.MKTP.CD world bank data for GDP
+# CODE_ONLY_STATE contains only single countries and not aggregates
+# lat_longs contain the coordinates how countries (average)
+# TradeData_11_13_2023_9_33_13 trade data for 2022 from UN com trade (goods) on database section of the current repository I will provide the code 
+# to automate the database creation with api
+
+
+
